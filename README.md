@@ -19,32 +19,51 @@ The following specifications would be good to consider to replicate and run the 
 Setup
 
 Download and install Python 3.6 or higher from the provided link above. 
+
 Download and install the Pycharm IDE from the link above
+
 OPen the command prompt console and verify the currently installed libraries for Python
+
 *Type 'pip list' to view all installed python libraries 
+
 Install selenium with pip command "pip install selenium"
 
 Setup Pycharm IDE
+
 Open the Pycharm IDE and navigate to the settings
+
 query 'Project interpreter' from the search-box
+
 verify if selenium plug in is now installed
 
 If not in-view from the displayed installed plugins
+
 use the '+' plus button to add new plugin
+
 enter selenium in the search box and install 
 
 Test Scenarios considered
 
 Navigation to www.google.com should be successful
+
 Navigation to Wikepedia.com should be successful
+
 Coordinates testing
+
 Logistics testing
+
 Site concerns testing
+
 Redirection to appropriate url
+
 Giga Berlin article
+
 Site location on map
 
 Testing
+
 Please download this code to your local system
+
 I recommend just running the "kollex_qa_challenge.py"
+
 It could as well be initialized from the commnand prompt using the appropriate directories
