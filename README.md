@@ -1,15 +1,21 @@
-# Kollex QA Cchallenge
+# Kollex QA Challenge
 Web automation to search for Giga Berlin from Wikipedia
 
 Introduction
 
 The QA challenge at Kollex is a task requiring the apt navigation (via web automation) from the Google search engine to the Wikipedia website. 'Giga Berlin' is the target article to be searched and filtered using the search box, thereafter the Coordinates of the location, Logistics and Site concerns alongside the site location on the google map would be verified and tested as accessible via the web page
+
+
 Requirements
 
 This task was executed using the following tools 
+
 Windows 10 Operating System 
+
 Selenium 3.141.0 https://www.selenium.dev/downloads/ 
+
 Python 3.9.0 https://www.python.org/downloads/ 
+
 Pycharm 2020.1.2 https://www.jetbrains.com/pycharm/
 
 Recommendations
