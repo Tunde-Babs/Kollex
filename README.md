@@ -1,9 +1,9 @@
-# Kollex QA Challenge
+# Simple Automation Challenge
 Web automation to search for Giga Berlin from Wikipedia
 
 Introduction
 
-The QA challenge at Kollex is a task requiring the apt navigation (via web automation) from the Google search engine to the Wikipedia website. 'Giga Berlin' is the target article to be searched and filtered using the search box, thereafter the Coordinates of the location, Logistics and Site concerns alongside the site location on the google map would be verified and tested as accessible via the web page
+The Simple Automation challenge is a task requiring the apt navigation (via web automation) from the Google search engine to the Wikipedia website. 'Giga Berlin' is the target article to be searched and filtered using the search box, thereafter the Coordinates of the location, Logistics and Site concerns alongside the site location on the google map would be verified and tested as accessible via the web page
 
 
 Requirements
